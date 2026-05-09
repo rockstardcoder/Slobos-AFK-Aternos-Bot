@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Timepasing.aternos.me",
+    "ip": "icefish.aternos.host:12885",
     "port": 12885,
     "version": "",
     "try-creative": false
