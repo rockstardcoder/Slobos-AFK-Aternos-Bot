@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "icefish.aternos.host:12885",
+    "ip": "icefish.aternos.host",
     "port": 12885,
     "version": "",
     "try-creative": false
